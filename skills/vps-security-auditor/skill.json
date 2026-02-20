@@ -1,0 +1,14 @@
+{
+  "name": "vps-security-auditor",
+  "version": "1.0.1",
+  "description": "Automated VPS security auditor. Checks SSH, firewall, updates, file permissions, and more. Can auto-fix issues.",
+  "author": "vpsrun",
+  "license": "MIT",
+  "keywords": ["security", "vps", "audit", "hardening", "linux", "ssh", "firewall", "fail2ban"],
+  "repository": "https://github.com/vpsrun/vps-security-auditor",
+  "main": "audit.sh",
+  "scripts": {
+    "audit": "bash audit.sh",
+    "fix": "bash audit.sh fix"
+  }
+}
