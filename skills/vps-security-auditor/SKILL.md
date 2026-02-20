@@ -76,4 +76,4 @@ Just ask:
 
 ---
 
-*Built by vpsrun.ai — Your Personal AI Operator*
+*Built by vpsrun*

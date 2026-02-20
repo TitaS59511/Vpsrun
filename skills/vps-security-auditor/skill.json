@@ -5,7 +5,7 @@
   "author": "vpsrun",
   "license": "MIT",
   "keywords": ["security", "vps", "audit", "hardening", "linux", "ssh", "firewall", "fail2ban"],
-  "repository": "https://github.com/vpsrun/vps-security-auditor",
+  "repository": "https://github.com/TitaS59511/Vpsrun",
   "main": "audit.sh",
   "scripts": {
     "audit": "bash audit.sh",
